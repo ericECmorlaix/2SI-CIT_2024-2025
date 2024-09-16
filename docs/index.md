@@ -17,8 +17,9 @@
 
 - **Développer** en équipe tout au long de l'année un projet long tel que :
 
+    - Créer un [jeu sur le thème de la cybersécurité](https://cyber.gouv.fr/actualites/au-college-et-au-lycee-former-a-la-cybersecurite-par-le-jeu){target="_blank"} ;
+    - S'entrainer à programmer pour la [Nuit du c0de/](https://www.nuitducode.net/){target="_blank"} ;​
     - Construire et programmer des robots pour domino challenge et/ou [RoboFesta](https://www.robofesta.fr){target="_blank"} ;
-    - Développer un jeu vidéo pour la [Nuit du c0de/](https://www.nuitducode.net/){target="_blank"}
     - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;    
     - Développer des équipements pour connecter la serre du projet "planète verte" au collège Saint Augustin ;
     - Imaginer des solutions pour mesurer l'activité sportive dans le cadre du projet "bougeons ensemble" ;
