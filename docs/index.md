@@ -216,7 +216,7 @@
  
 -->
 ***
-## Le 01/10
+## Les 01 et 08/10
 
 === "CONTENU DE SÉANCE"
 
