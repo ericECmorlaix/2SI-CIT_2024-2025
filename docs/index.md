@@ -220,6 +220,8 @@
 
 === "CONTENU DE SÉANCE"
 
+    - [Hommage à **Samuel PATY** et **Dominique BERNARD**](https://ecmorlaix.sharepoint.com/:w:/s/lndm-conseildedirection/ETQGWf4whA9CpRtc0hMTcR0BrUn_ePIfU0iEVlpvXZwRWw?e=x5GDlM){target=_blank}
+    
     - Synthèse partielle de la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et avec le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
     [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
