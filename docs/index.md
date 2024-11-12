@@ -216,13 +216,13 @@
  
 -->
 ***
-## Le 08/11
+## Les 12 et 19/11
 
 === "CONTENU DE SÉANCE"
 
-    - Synthèse partielle de la programmation d'une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} afin de relever [les défis...](./bbc_microbit){target=_blank} ;
+    - Synthèse partielle de la programmation d'une carte [BBC micro:bit](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/BBC_microbit/){target=_blank} afin de relever [les défis...](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank .md-button .md-button--primary } ;
 
-    - **Imaginer** un projet créatif de Sciences de l'Ingénieur, Informatique, Numérique, Technologique (S2INT) et le décrire sur [Capytale n° 0e3e-4530240](https://capytale2.ac-paris.fr/web/c/0e3e-4530240){target=_blank} ;    
+    - **Imaginer** un projet créatif de Sciences de l'Ingénieur, Informatique, Numérique, Technologique (S2INT) et le décrire sur [Capytale n° 0e3e-4530240](https://capytale2.ac-paris.fr/web/c/0e3e-4530240){target=_blank .md-button .md-button--primary } ;    
 
 === "TRAVAIL À FAIRE"
 
