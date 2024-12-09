@@ -216,6 +216,30 @@
  
 -->
 ***
+## Le 10/12
+
+=== "CONTENU DE SÉANCE"
+
+    - Bilan des micro-projet de S2INT sur [Capytale n° 0e3e-4530240](https://capytale2.ac-paris.fr/web/c/0e3e-4530240){target=_blank} ;
+    
+    - Inventaire de projets créatifs de Sciences de l'Ingénieur, Informatique, Numérique, Technologique (S2INT) pour la suite :
+        - ...
+        - [RobotFesta](./robofesta/UBS-ROBOFESTA-2025-Nautilus-Robotics-EXE.jpg), [Chorégraphie](./robofesta/Reglement_2025_epreuve_choregraphie_v2.pdf) ou [Technique](./robofesta/Reglement_2025_epreuve_technique_v2.pdf) ([Annexes](./robofesta/Annexes_2025_epreuve_technique_v2.pdf))
+        - [Cyber en Jeux](), [Passe-ton-hack](https://www.defense.gouv.fr/comcyber/actualites/passe-ton-hack-dabord-2e-edition-elargie-lensemble-du-territoire-francais){target=_blank}, [Red Team Competition](https://esisar.grenoble-inp.fr/fr/recherche/red-team){target=_blank},[France Cybersecurity Challenge (FCSC)](https://cyber.gouv.fr/france-cybersecurity-challenge-2024){target=_blank}, [CTF challenges-kids](https://www.challenges-kids.fr/index.php){target=_blank}, [Cybersecurite Challenges](https://cybersecurite.forge.apps.education.fr/cyber/3.Challenges/presentation/)... ;
+        - [Nuit du Code](https://www.nuitducode.net/){target=_blank} ;
+        - ...   
+
+=== "TRAVAIL À FAIRE"
+
+    ![homework](images/undraw_Working_re_ddwy.svg){: .center width=40%}
+    
+    - **Relever** tous [les défis sur BBC micro:bit](./bbc_microbit){target=_blank} en sauvegardant vos scripts sur [Capytale n° 5144-4540204](https://capytale2.ac-paris.fr/web/c/5144-4540204){target=_blank} ;
+    - **Poursuivre**, avec votre code personnel, la programmation des objets connectés sur la [plateforme de France-IOI​​](https://amazon.quick-pi.org/){target="_blank"} et **Compléter** progressivement votre notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target=_blank} 
+    [Capytale n° 6b23-4017450](https://capytale2.ac-paris.fr/web/c/6b23-4017450){target=_blank .md-button .md-button--primary } 
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IOT/QuickPi/Quick_Pi-Objets_connectes-Parcours_1.ipynb){ .md-button .md-button--primary} ;
+    - **Découvrir** d'avantage la [modélisation 3D avec BlocksCad](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/3D/BlocksCAD/){target="_blank"} ;
+
+***
 ## Les 12 et 19/11
 
 === "CONTENU DE SÉANCE"
